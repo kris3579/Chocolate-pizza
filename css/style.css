@@ -1,0 +1,107 @@
+body {
+  margin: auto;
+  width: 900px;
+}
+
+aside {
+  float: right;
+}
+
+/* font-family: 'Francois One', sans-serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Saira Extra Condensed', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Kalam', cursive; */
+
+h1 {
+  font-size: 2em;
+  font-family: 'Francois One', sans-serif;
+  margin-top: 30px;
+}
+
+h2 {
+  font-family: 'kaushan script';
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+h3 {
+  font-family: 'Francois One', sans-serif;
+  font-size: 1.25em; 
+}
+
+div input:first-child {
+  margin-top: 50px;
+}
+
+input {
+  margin-top: 10px;
+ }
+
+.nav {
+  margin-top: 15px;
+}
+
+.navSpace {
+  margin-top: 15px;
+  margin-right: 10px;
+}
+
+.infotext {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: lightgray;
+  margin-top: 5px;
+}
+
+.footinfotext {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: lightgray;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.infotextprint {
+  display: inline;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: lightgray;
+}
+
+.mainp {
+  margin-top: 30px;
+  text-indent: 30px;
+}
+
+#footp {
+  margin-top: 10px;
+}
+
+#input {
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  font-family: 'Kalam', cursive; 
+}
+
+#input2 {
+  position: absolute;
+  top: 5%;
+  left: 55%;
+  font-family: 'Kalam', cursive; 
+}
+
+#listDiv {
+  margin-top: 45px;
+  position: relative;
+  width: 850px;
+  height: 250px;
+  padding: 25px;
+  background-image: url('../assets/list-bg.png');
+}
+
+#h2subtext {
+  font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+#mainimg {
+  margin-top: 35px;
+}
