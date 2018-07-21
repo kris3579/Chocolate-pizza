@@ -1,6 +1,7 @@
 body {
   margin: auto;
   width: 900px;
+  height: 1700px;
 }
 
 aside {
@@ -74,6 +75,14 @@ input {
   text-indent: 30px;
 }
 
+.smallline {
+  height: 0px;
+  border: solid lightgray 1px;
+  width: 425px;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
 #footp {
   margin-top: 10px;
 }
@@ -107,7 +116,7 @@ input {
 }
 
 #mainimg {
-  margin-top: 35px;
+  margin-top: 30px;
 }
 
 #logo {
@@ -129,4 +138,14 @@ input {
 
 #vanessa {
   margin-right: 15px;
+}
+
+#button {
+  color: white;
+  background-color: rgb(202, 113, 29);
+  padding: 10px;
+}
+
+#bottomlogo {
+  margin-top: 35px;
 }
