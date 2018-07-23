@@ -122,7 +122,8 @@ input {
 #bigline {
   height: 15px;
   width: 100%;
-  background-color: lightgrey;
+  background-image: linear-gradient(45deg, #ffffff 25%, #7c8387 25%, #7c8387 50%, #ffffff 50%, #ffffff 75%, #7c8387 75%, #7c8387 100%);
+  background-size: 5.66px 5.66px;
   margin-top: 20px;
   margin-bottom: 30px;
 }
